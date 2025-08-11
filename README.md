@@ -38,7 +38,9 @@ Os dados são carregados a partir de um dataset público de salários e podem se
 
 ---
 
-## 
+## 📈 DASHBOARD
+- O dashboard interativo está hospedado no Streamlit Cloud e pode ser acessado através do seguinte link: 
+[Dashboard](https://datadashpy.streamlit.app/)
 
 
 
